@@ -6,7 +6,6 @@
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and computer programming.
-- 💼 &nbsp; Competitive Programmer who is not an expert yet!
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ☕ &nbsp; I belive, a perfect cup of tea can be the ultimate solution for any stress. 
 
